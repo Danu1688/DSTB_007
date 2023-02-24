@@ -25,9 +25,6 @@ proxies:
     path: "/trojanws"
     headers:
       Host: sg-ctn.sshpremium.my.id
-
-
-
 - name: DanuJuragan01_LiveONBizzNet
   type: trojan
   server: beacon.liveon.id
