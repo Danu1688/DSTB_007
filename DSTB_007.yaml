@@ -1,7 +1,7 @@
 proxies:
 - name: danu07_LiveCth07
   type: trojan
-  server: beacon.liveon.id
+  server: zendesk1.appsflyer.com
   port: 443
   password: 903f3018-7c57-4658-9e04-f59bc7210cb2
   udp: true
