@@ -1,7 +1,7 @@
 proxies:
 - name: Mukmin2_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 7b281f42-efea-4ec5-a996-517e839e3b07
   udp: true
