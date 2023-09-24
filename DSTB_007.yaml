@@ -1,4 +1,17 @@
 proxies:
+- name: Mukmin2Nusa_LiveNusa_1
+  type: trojan
+  server: beacon.liveon.id
+  port: 443
+  password: a81a5ab3-f6cd-4807-b3bc-54fe4675905b
+  udp: true
+  sni: vpna4mvbhv.scpotato.me
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: vpna4mvbhv.scpotato.me
 - name: Mukmin2_LiveDO_1
   type: trojan
   server: circles.asia
